@@ -10,7 +10,7 @@ La start-up de la EdTech "__Academy__", qui propose des __formations en ligne po
 - d’informer le projet d’expansion
 - et de répondre aux questions :
 
-- Quels sont les **pays avec un fort potentiel** de clients pour nos services ?
+  - Quels sont les **pays avec un fort potentiel** de clients pour nos services ?
   - Pour chacun de ces pays, quelle sera **l’évolution de ce potentiel** de clients ?
   - Dans quels pays l'entreprise doit-elle **opérer en priorité** ?
 
