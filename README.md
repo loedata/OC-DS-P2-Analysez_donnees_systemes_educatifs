@@ -2,7 +2,7 @@
 Formation OpenClassrooms - Parcours data scientist - Projet n°2 - Analysez des données de systèmes éducatifs
 
 ## Analyse de données de systèmes éducatifs
-*****
+
 La start-up de la EdTech "__Academy__", qui propose des __formations en ligne pour les lycéens et les enseignements supérieurs__, projette une expansion à l’international de l’entreprise. 
 
 **Mission** : A partir des données sur l'éducation de la Banque mondiale, réaliser une pré-analyse exploratoire, pour déterminer si ces données permettent :
