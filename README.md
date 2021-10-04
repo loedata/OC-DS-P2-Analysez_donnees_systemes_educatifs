@@ -47,7 +47,7 @@ http://datatopics.worldbank.org/education/
 - Maîtriser les opérations fondamentales du langage Python pour la Data Science.
 - Manipuler des données avec des librairies Python spécialisées.
 
-## Evaluation
+## Évaluation
 
 ![P2_eval_1](https://user-images.githubusercontent.com/71518818/135880164-033aa58d-f86a-4091-b35b-050126e71fa8.png)
 ![P2_eval_2](https://user-images.githubusercontent.com/71518818/135880226-5dc41f65-c62b-4fac-817f-360ade4391e3.png)
