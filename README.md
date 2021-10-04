@@ -25,6 +25,10 @@ Plus d'info sur ce site :
 
 http://datatopics.worldbank.org/education/
 
+## Boîte à outils
+
+![P2_outils](https://user-images.githubusercontent.com/71518818/135879391-7add1129-8a27-4df5-a401-346e7e9ee358.png)
+
 ## Pré-analyse
 
 ### Objectifs
