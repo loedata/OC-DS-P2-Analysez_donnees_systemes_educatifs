@@ -40,4 +40,17 @@ http://datatopics.worldbank.org/education/
 
 ![P2_Conclusion](https://user-images.githubusercontent.com/71518818/134949451-7a961d5f-1413-453b-b034-f949b78d3eb7.png)
 
-![P2_outils](https://user-images.githubusercontent.com/71518818/134949506-1211dc24-24ed-4529-8a37-cad26d702aa2.png)
+## Compétences
+- Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration.
+- Mettre en place un environnement Python.
+- Effectuer une représentation graphique à l'aide d'une librairie Python adaptée.
+- Maîtriser les opérations fondamentales du langage Python pour la Data Science.
+- Manipuler des données avec des librairies Python spécialisées.
+
+## Evaluation
+
+![P2_eval_1](https://user-images.githubusercontent.com/71518818/135880164-033aa58d-f86a-4091-b35b-050126e71fa8.png)
+![P2_eval_2](https://user-images.githubusercontent.com/71518818/135880226-5dc41f65-c62b-4fac-817f-360ade4391e3.png)
+
+
+
